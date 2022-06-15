@@ -72,10 +72,10 @@ Here are some ideas to get you started:
 </p>
 
 <div align=center><a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=GodOfCoding1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+      <img width=396 src="https://github-readme-stats.vercel.app/api?username=GodOfCoding1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
  </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodOfCoding1&langs_count=5&layout=compact&custom_title=Most used languages on GitHub" />
+      <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodOfCoding1&langs_count=5&layout=compact&exclude_repo=DashBoard-Website&custom_title=Most used languages on GitHub" />
     </a>
 </div>
 
