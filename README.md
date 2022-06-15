@@ -80,7 +80,7 @@ Here are some ideas to get you started:
       <img width="45%" src="https://github-readme-stats.vercel.app/api?username=GodOfCoding1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
  </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodOfCoding1&langs_count=8&layout=compact&exclude_repo=DashBoard-Website&theme=tokyonight&custom_title=Most used languages on GitHub" />
+      <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodOfCoding1&langs_count=8&layout=compact&exclude_repo=DashBoard-Website&theme=tokyonight&hide_border=true&custom_title=Most used languages on GitHub" />
     </a>
 </div>
 
