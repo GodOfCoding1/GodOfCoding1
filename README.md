@@ -1,4 +1,4 @@
-## Hi there 👋! I'm Madhav. ✨
+## Hi there!👋 I'm Madhav. ✨
 
 <!--
 **GodOfCoding1/GodOfCoding1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
