@@ -71,11 +71,11 @@ Here are some ideas to get you started:
             alt="unity" width="40" height="40" /> </a>
 </p>
 
-<div align=space-around><a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img width=396 src="https://github-readme-stats.vercel.app/api?username=GodOfCoding1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+<div align=center><a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=GodOfCoding1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
  </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodOfCoding1&langs_count=8&layout=compact&exclude_repo=DashBoard-Website&custom_title=Most used languages on GitHub" />
+      <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodOfCoding1&langs_count=8&layout=compact&exclude_repo=DashBoard-Website&custom_title=Most used languages on GitHub" />
     </a>
 </div>
 
