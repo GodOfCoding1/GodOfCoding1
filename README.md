@@ -34,8 +34,7 @@ Here are some ideas to get you started:
      <a href="https://expressjs.com" target="_blank" title ="Express.js"> <img
             src="https://cdn.buttercms.com/8am8PZECScDawQa33Lv2"
             alt="express" width="40" height="40" /> </a>
-    <a href="https://nestjs.com/" target="_blank" title ="Nest.js"> <img
-            src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe…15ad5d7732decad182a/26072/logo-small.ede75a6b.svg"
+    <a href="https://nestjs.com/" target="_blank" title ="Nest.js"> <img                                                                        src="https://camo.githubusercontent.com/5f54c0817521724a2deae8dedf0c280a589fd0aa9bffd7f19fa6254bb52e996a/68747470733a2f2f6e6573746a732e636f6d2f696d672f6c6f676f2d736d616c6c2e737667"
             alt="nest" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank" title ="git"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
