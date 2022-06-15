@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on becoming a competent software developer.
-- 🌱 I’m currently learning Blockchian Technology
+- 🌱 I’m currently learning Blockchain Technology
 
 ## Tools and Technologies
 <p align="left">
