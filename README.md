@@ -54,6 +54,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858
     <a href="https://getbootstrap.com" target="_blank" title ="bootstrap"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="40" height="40" /></a>
+        <a href="https://www.postgresql.org/" target="_blank" title ="PostgresSQL"><img
+            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-original.svg"
+            alt="PostgresSQL" width="40" height="40" /></a>
     <a href="https://www.mongodb.com/" target="_blank" title ="MongoDB"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb" width="40" height="40" /></a>
