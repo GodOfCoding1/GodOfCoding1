@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [E-mail](mailto:madhavrajeev303@gmail.com) | [LinkedIn](https://www.linkedin.com/in/madhav-rajeev-b9485a205/) | [Instagram](https://www.instagram.com/_madhav_101) | [Twitter](https://twitter.com/_madhav_1) | [YouTube](https://www.youtube.com/channel/UC3p_rABGeQsGuU4yTFcGbSQ) | [GitHub](https://github.com/GodOfCoding1) | [Portfolio](https://my-3d-portfolio.vercel.app/)
 
 ## Tools and Technologies
-<p align="left">
+<p align="center">
         <a href="https://www.python.org" target="_blank" title ="Python"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
             alt="python" width="40" height="40" /></a>
@@ -71,8 +71,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858
 <div align=center><a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img width="45%" src="https://github-readme-stats.vercel.app/api?username=GodOfCoding1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark"/>
  </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodOfCoding1&langs_count=8&layout=compact&exclude_repo=DashBoard-Website&theme=dark&hide_border=true&custom_title=Most used languages on GitHub" />
-    </a>
+   
 </div>
 
