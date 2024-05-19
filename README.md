@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Skills
 - Full Stack Development (Web and Mobile application Development)
-- DevOps Engineering, CICD Automation
+- DevOps Engineering, CICD Automation, E2E Testing
 - Experienced Languages: JavaScript, Python, C and C++.
 - Knowledge about Low level and High level system design
 
