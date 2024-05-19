@@ -71,7 +71,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858
 <div align=center>
         <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img width="45%" height=300px src="https://github-readme-stats.vercel.app/api?username=GodOfCoding1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark"/></a>
-        <img width="45%" height=300px src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodOfCoding1&langs_count=8&layout=compact&exclude_repo=DashBoard-Website&theme=dark&hide_border=true&custom_title=Most%20used%20languages%20on%20GitHub" />
+        <img width="45%" height=300px src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodOfCoding1&langs_count=8&layout=compact&exclude_repo=DashBoard-Website&theme=dark&hide_border=true&custom_title=Most%20used%20languages" />
    
 </div>
 
