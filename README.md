@@ -47,7 +47,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858
 <a href="https://angularjs.org/" target="_blank" title ="Angular.Js"><img                                                                        src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angular/angular-original.svg"
             alt="agular" width="40" height="40" /></a>
     <a href="https://git-scm.com/" target="_blank" title ="git"><img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
     <a href="https://aws.amazon.com/" target="_blank" title ="AWS"><img
             src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
             alt="aws" width="40" height="40" /></a>
@@ -68,10 +68,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858
             alt="android studio" width="40" height="40" /></a>
 </p>
 
-<div align=center><a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img width="45%" src="https://github-readme-stats.vercel.app/api?username=GodOfCoding1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark"/>
- </a>
-      <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodOfCoding1&langs_count=8&layout=compact&exclude_repo=DashBoard-Website&theme=dark&hide_border=true&custom_title=Most%20used%20languages%20on%20GitHub" />
+<div align=center>
+        <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img width="45%" height=300px src="https://github-readme-stats.vercel.app/api?username=GodOfCoding1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark"/></a>
+        <img width="45%" height=300px src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodOfCoding1&langs_count=8&layout=compact&exclude_repo=DashBoard-Website&theme=dark&hide_border=true&custom_title=Most%20used%20languages%20on%20GitHub" />
    
 </div>
 
