@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 ### Skills
-- Full Stack Developemnt (Web and Mobile application Development)
+- Full Stack Development (Web and Mobile application Development)
 - DevOps Engineering, CICD Automation
 - Experienced Languages: JavaScript, Python, C and C++.
 - Knowledge about Low level and High level system design
