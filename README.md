@@ -1,6 +1,8 @@
-## Hi! I'm Madhav Rajeev. 
-I did my B.Tech at IIT Madras, India.
+## Hi! I'm Madhav Rajeev. ✨
+
 A Software Developer well experienced in Full Stack Development.
+
+I did my B.Tech at IIT Madras, India. 
 
 <!--
 **GodOfCoding1/GodOfCoding1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +17,7 @@ Here are some ideas to get you started:
 ### Skills
 - Full Stack Developemnt (Web and Mobile application Development)
 - DevOps Engineering, CICD Automation
-- Experienced Languages: Python, JavaScript, C and C++.
+- Experienced Languages: JavaScript, Python, C and C++.
 - Knowledge about Low level and High level system design
 
 ### Contact me                                   
