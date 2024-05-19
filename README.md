@@ -1,4 +1,6 @@
-## Hi there!👋 I'm Madhav. ✨
+## Hi! I'm Madhav Rajeev. 
+I did my B.Tech at IIT Madras, India.
+A Software Developer well experienced in Full Stack Development.
 
 <!--
 **GodOfCoding1/GodOfCoding1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,10 +12,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
-
-- 🔭 I’m currently working on becoming a competent software developer.
-- Well experienced in Full stack development
-- 🌱 Learning machine learning 
+### Skills
+- Full Stack Developemnt (Web and Mobile application Development)
+- DevOps Engineering, CICD Automation
+- Experienced Languages: Python, JavaScript, C and C++.
+- Knowledge about Low level and High level system design
 
 ### Contact me                                   
 [E-mail](mailto:madhavrajeev303@gmail.com) | [LinkedIn](https://www.linkedin.com/in/madhav-rajeev-b9485a205/) | [Instagram](https://www.instagram.com/_madhav_101) | [Twitter](https://twitter.com/_madhav_1) | [YouTube](https://www.youtube.com/channel/UC3p_rABGeQsGuU4yTFcGbSQ) | [GitHub](https://github.com/GodOfCoding1) | [Portfolio](https://my-3d-portfolio.vercel.app/)
