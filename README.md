@@ -61,7 +61,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
             height="40" /></a>
     <a href="https://unity.com/" target="_blank" title ="Unity"><img
-            src="https://unity3d.com/profiles/unity3d/themes/unity/images/ui/ui/unity-logo-darkmode.min.svg"
+            src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/unity/unity-original.svg"
             alt="unity" width="40" height="40" /></a>
        <a href="https://developer.android.com/studio" target="_blank" title ="android studio"><img
             src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
@@ -71,7 +71,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858
 <div align=center><a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img width="45%" src="https://github-readme-stats.vercel.app/api?username=GodOfCoding1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark"/>
  </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GodOfCoding1&langs_count=8&layout=compact&exclude_repo=DashBoard-Website&theme=dark&hide_border=true&custom_title=Most used languages on GitHub" />
     </a>
 </div>
