@@ -67,7 +67,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858
             src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
             alt="android studio" width="40" height="40" /></a>
 </p>
-
+## Github Stats
 <div align=center>
         <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img width="45%" height=300px src="https://github-readme-stats.vercel.app/api?username=GodOfCoding1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dark"/></a>
