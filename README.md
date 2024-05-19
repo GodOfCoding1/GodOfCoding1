@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on becoming a competent software developer.
-- Well experienced in full stack development
+- Well experienced in Full stack development
 - 🌱 Learning machine learning 
 
 ### Contact me                                   
