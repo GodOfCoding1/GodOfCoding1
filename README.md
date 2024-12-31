@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Knowledge about Low level and High level system design
 
 ### Contact me                                   
-[E-mail](mailto:madhavrajeev303@gmail.com) | [LinkedIn](https://www.linkedin.com/in/madhav-rajeev-b9485a205/) | [Instagram](https://www.instagram.com/_madhav_101) | [Twitter](https://twitter.com/_madhav_1) | [YouTube](https://www.youtube.com/channel/UC3p_rABGeQsGuU4yTFcGbSQ) | [GitHub](https://github.com/GodOfCoding1) | [Portfolio](https://my-3d-portfolio.vercel.app/)
+[E-mail](mailto:madhavrajeev303@gmail.com) | [LinkedIn](https://www.linkedin.com/in/madhav-rajeev-b9485a205/) | [Instagram](https://www.instagram.com/_madhav_101) | [Twitter](https://twitter.com/_madhav_1) | [YouTube](https://www.youtube.com/channel/UC3p_rABGeQsGuU4yTFcGbSQ) | [GitHub](https://github.com/GodOfCoding1) | [Portfolio](https://madhav-rajeev.vercel.app/)
 
 ## Tools and Technologies
 <p align="center">
