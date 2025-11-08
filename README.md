@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### Contact me                                   
 [E-mail](mailto:madhavrajeev303@gmail.com) | [LinkedIn](https://www.linkedin.com/in/madhav-rajeev-b9485a205/) | [Instagram](https://www.instagram.com/_madhav_101) | [Twitter](https://twitter.com/_madhav_1) | [YouTube](https://www.youtube.com/channel/UC3p_rABGeQsGuU4yTFcGbSQ) | [GitHub](https://github.com/GodOfCoding1) | [Portfolio](https://madhav-rajeev.vercel.app/)
-
+<!--
 ## Tools and Technologies
 <p align="center">
         <a href="https://www.python.org" target="_blank" title ="Python"><img
@@ -75,7 +75,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858
        <a href="https://developer.android.com/studio" target="_blank" title ="android studio"><img
             src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"
             alt="android studio" width="40" height="40" /></a>
-</p>
+ </p> -->
 
 ## Github Stats
 <div align=center>
