@@ -1,7 +1,6 @@
 ## Hi! I'm Madhav Rajeev. ✨
 
 A Software Developer well experienced in Full Stack Development.
-
 I did my B.Tech at IIT Madras, India.
 
 <!--
