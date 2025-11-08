@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 ### Skills
-- Full Stack Development (Web and Mobile application Development)
-- DevOps Engineering, CICD Automation, E2E Testing
+- Full Stack Development
+- Building agentic automation workflows
+- DevOps Engineering, CICD Automation
 - Experienced Languages: JavaScript, Python, C and C++.
 - Knowledge about Low level and High level system design
 
